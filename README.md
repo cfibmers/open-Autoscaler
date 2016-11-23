@@ -1,4 +1,9 @@
 <link href="https://raw.github.com/clownfart/Markdown-CSS/master/markdown.css" rel="stylesheet"></link>
+This repository is no longer actively maintained.
+
+All further development occurs at https://github.com/cloudfoundry-incubator/app-autoscaler
+
+
 # CF-AutoScaler
 
 This is an incubation project for Cloud Foundry. You can follow the development progress on [Pivotal Tracker][t].
